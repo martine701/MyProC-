@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\bin\Debug\net8.0\BasicInheritance.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\bin\Debug\net8.0\BasicInheritance.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\bin\Debug\net8.0\BasicInheritance.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\bin\Debug\net8.0\BasicInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\bin\Debug\net8.0\BasicInheritance.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\refint\BasicInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\BasicInheritance.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\BasicInheritance\obj\Debug\net8.0\ref\BasicInheritance.dll

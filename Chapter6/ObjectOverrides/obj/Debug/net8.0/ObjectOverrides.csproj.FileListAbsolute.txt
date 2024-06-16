@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\bin\Debug\net8.0\ObjectOverrides.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\bin\Debug\net8.0\ObjectOverrides.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\bin\Debug\net8.0\ObjectOverrides.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\bin\Debug\net8.0\ObjectOverrides.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\bin\Debug\net8.0\ObjectOverrides.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\refint\ObjectOverrides.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ObjectOverrides.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\ObjectOverrides\obj\Debug\net8.0\ref\ObjectOverrides.dll

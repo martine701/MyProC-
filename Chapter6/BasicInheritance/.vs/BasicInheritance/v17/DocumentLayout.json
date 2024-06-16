@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter5\\basicinheritance\\cars.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|solutionrelative:cars.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter5\\basicinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter5\\basicinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|solutionrelative:minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter5\\basicinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58E0310-C5EA-471A-9A26-FA8306FC3073}|BasicInheritance.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cars.cd",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Cars.cd",
+              "RelativeDocumentMoniker": "Cars.cd",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Cars.cd",
+              "RelativeToolTip": "Cars.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-19T20:27:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniVan.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\MiniVan.cs",
+              "RelativeDocumentMoniker": "MiniVan.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\MiniVan.cs",
+              "RelativeToolTip": "MiniVan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:24:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:21:15.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter5\\BasicInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:21:04.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

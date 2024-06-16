@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\employees.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:employees.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\employees\\employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82411E8A-BC6C-4DC3-8068-D17A68D50973}|Employees.csproj|solutionrelative:employeepaytypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "SalesPerson.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\SalesPerson.cs",
+              "RelativeToolTip": "SalesPerson.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:49:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:45:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cd",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Employees.cd",
+              "RelativeDocumentMoniker": "Employees.cd",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Employees.cd",
+              "RelativeToolTip": "Employees.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-19T20:42:14.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePayTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\EmployeePayTypeEnum.cs",
+              "RelativeDocumentMoniker": "EmployeePayTypeEnum.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\EmployeePayTypeEnum.cs",
+              "RelativeToolTip": "EmployeePayTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:32:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwHcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:31:40.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\Employees\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:30:27.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

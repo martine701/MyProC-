@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\recordinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\recordinheritance\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|solutionrelative:minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|c:\\users\\allie\\onedrive\\documents\\visual studio 2022\\myprocsharp\\chapter6\\recordinheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652DDEA7-7889-498E-B421-0605330C0631}|RecordInheritance.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiniVan.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\MiniVan.cs",
+              "RelativeDocumentMoniker": "MiniVan.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\MiniVan.cs",
+              "RelativeToolTip": "MiniVan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:59:02.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:58:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allie\\OneDrive\\Documents\\Visual Studio 2022\\MyProCSharp\\Chapter6\\RecordInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:58:21.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

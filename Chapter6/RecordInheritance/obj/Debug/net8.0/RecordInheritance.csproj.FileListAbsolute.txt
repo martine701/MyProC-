@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\bin\Debug\net8.0\RecordInheritance.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\bin\Debug\net8.0\RecordInheritance.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\bin\Debug\net8.0\RecordInheritance.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\bin\Debug\net8.0\RecordInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\bin\Debug\net8.0\RecordInheritance.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\refint\RecordInheritance.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\RecordInheritance.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter6\RecordInheritance\obj\Debug\net8.0\ref\RecordInheritance.dll
