@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\refint\BasicDataTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\BasicDataTypes\obj\Debug\net8.0\ref\BasicDataTypes.dll

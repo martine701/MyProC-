@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\bin\Debug\net8.0\TypeConversions.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\bin\Debug\net8.0\TypeConversions.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\bin\Debug\net8.0\TypeConversions.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\bin\Debug\net8.0\TypeConversions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\bin\Debug\net8.0\TypeConversions.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\refint\TypeConversions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\TypeConversions.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\TypeConversions\obj\Debug\net8.0\ref\TypeConversions.dll
