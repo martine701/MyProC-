@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\bin\Debug\net8.0\FunWithClassTypes.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\bin\Debug\net8.0\FunWithClassTypes.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\bin\Debug\net8.0\FunWithClassTypes.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\bin\Debug\net8.0\FunWithClassTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\bin\Debug\net8.0\FunWithClassTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\refint\FunWithClassTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\FunWithClassTypes.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\FunWithClassTypes\obj\Debug\net8.0\ref\FunWithClassTypes.dll

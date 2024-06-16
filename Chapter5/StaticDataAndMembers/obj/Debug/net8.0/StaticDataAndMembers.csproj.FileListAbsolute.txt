@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\bin\Debug\net8.0\StaticDataAndMembers.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\refint\StaticDataAndMembers.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\StaticDataAndMembers.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter5\StaticDataAndMembers\obj\Debug\net8.0\ref\StaticDataAndMembers.dll
