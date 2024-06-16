@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\bin\Debug\net8.0\FunWithStructures.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\bin\Debug\net8.0\FunWithStructures.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\bin\Debug\net8.0\FunWithStructures.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\bin\Debug\net8.0\FunWithStructures.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\bin\Debug\net8.0\FunWithStructures.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\refint\FunWithStructures.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\FunWithStructures.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStructures\obj\Debug\net8.0\ref\FunWithStructures.dll

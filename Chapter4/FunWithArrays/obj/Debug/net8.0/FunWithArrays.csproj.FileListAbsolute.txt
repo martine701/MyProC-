@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\bin\Debug\net8.0\FunWithArrays.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\bin\Debug\net8.0\FunWithArrays.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\bin\Debug\net8.0\FunWithArrays.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\bin\Debug\net8.0\FunWithArrays.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\bin\Debug\net8.0\FunWithArrays.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\refint\FunWithArrays.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\FunWithArrays.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithArrays\obj\Debug\net8.0\ref\FunWithArrays.dll

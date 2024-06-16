@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\bin\Debug\net8.0\FunWithBitwiseOperations.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\bin\Debug\net8.0\FunWithBitwiseOperations.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\bin\Debug\net8.0\FunWithBitwiseOperations.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\bin\Debug\net8.0\FunWithBitwiseOperations.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\bin\Debug\net8.0\FunWithBitwiseOperations.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\refint\FunWithBitwiseOperations.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\FunWithBitwiseOperations.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithBitwiseOperations\obj\Debug\net8.0\ref\FunWithBitwiseOperations.dll

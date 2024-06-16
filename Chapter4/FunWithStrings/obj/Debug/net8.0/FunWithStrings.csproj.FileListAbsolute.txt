@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\bin\Debug\net8.0\FunWithStrings.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\bin\Debug\net8.0\FunWithStrings.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\bin\Debug\net8.0\FunWithStrings.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\bin\Debug\net8.0\FunWithStrings.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\bin\Debug\net8.0\FunWithStrings.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\refint\FunWithStrings.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\FunWithStrings.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithStrings\obj\Debug\net8.0\ref\FunWithStrings.dll

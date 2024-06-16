@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\bin\Debug\net8.0\FunWithRefTypeValTypeParams.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\bin\Debug\net8.0\FunWithRefTypeValTypeParams.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\bin\Debug\net8.0\FunWithRefTypeValTypeParams.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\bin\Debug\net8.0\FunWithRefTypeValTypeParams.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\bin\Debug\net8.0\FunWithRefTypeValTypeParams.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\refint\FunWithRefTypeValTypeParams.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\FunWithRefTypeValTypeParams.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithRefTypeValTypeParams\obj\Debug\net8.0\ref\FunWithRefTypeValTypeParams.dll

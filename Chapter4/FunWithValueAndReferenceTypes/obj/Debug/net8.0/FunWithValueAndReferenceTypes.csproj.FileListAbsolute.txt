@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\bin\Debug\net8.0\FunWithValueAndReferenceTypes.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\bin\Debug\net8.0\FunWithValueAndReferenceTypes.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\bin\Debug\net8.0\FunWithValueAndReferenceTypes.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\bin\Debug\net8.0\FunWithValueAndReferenceTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\bin\Debug\net8.0\FunWithValueAndReferenceTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\refint\FunWithValueAndReferenceTypes.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\FunWithValueAndReferenceTypes.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\FunWithValueAndReferenceTypes\obj\Debug\net8.0\ref\FunWithValueAndReferenceTypes.dll
