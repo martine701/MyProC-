@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\bin\Debug\net8.0\SimpleIndexer.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\bin\Debug\net8.0\SimpleIndexer.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\bin\Debug\net8.0\SimpleIndexer.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\bin\Debug\net8.0\SimpleIndexer.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\bin\Debug\net8.0\SimpleIndexer.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\refint\SimpleIndexer.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\SimpleIndexer.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\SimpleIndexer\obj\Debug\net8.0\ref\SimpleIndexer.dll

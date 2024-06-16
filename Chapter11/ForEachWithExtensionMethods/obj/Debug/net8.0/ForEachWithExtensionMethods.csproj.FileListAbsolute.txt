@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\refint\ForEachWithExtensionMethods.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\ForEachWithExtensionMethods\obj\Debug\net8.0\ref\ForEachWithExtensionMethods.dll

@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\bin\Debug\net8.0\InterfaceExtensions.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\refint\InterfaceExtensions.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\InterfaceExtensions.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter11\InterfaceExtensions\obj\Debug\net8.0\ref\InterfaceExtensions.dll
