@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\refint\FunWithObservableCollections.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter10\FunWithObservableCollections\obj\Debug\net8.0\ref\FunWithObservableCollections.dll
