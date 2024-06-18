@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\bin\Debug\net8.0\SimpleDelegate.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\refint\SimpleDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\SimpleDelegate.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\SimpleDelegate\obj\Debug\net8.0\ref\SimpleDelegate.dll

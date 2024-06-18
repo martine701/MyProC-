@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\bin\Debug\net8.0\CarDelegate.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\bin\Debug\net8.0\CarDelegate.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\bin\Debug\net8.0\CarDelegate.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\bin\Debug\net8.0\CarDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\bin\Debug\net8.0\CarDelegate.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\refint\CarDelegate.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\CarDelegate.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarDelegate\obj\Debug\net8.0\ref\CarDelegate.dll
