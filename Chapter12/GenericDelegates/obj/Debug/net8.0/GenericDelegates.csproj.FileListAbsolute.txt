@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\bin\Debug\net8.0\GenericDelegates.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\bin\Debug\net8.0\GenericDelegates.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\bin\Debug\net8.0\GenericDelegates.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\bin\Debug\net8.0\GenericDelegates.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\bin\Debug\net8.0\GenericDelegates.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\refint\GenericDelegates.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\GenericDelegates.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\GenericDelegates\obj\Debug\net8.0\ref\GenericDelegates.dll

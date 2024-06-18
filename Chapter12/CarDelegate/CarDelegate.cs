@@ -28,6 +28,10 @@ namespace CarDelegate
         {
             listOfHandlers += methodToCall;
         }
+        public void UnRegisterWithCarEngine(CarEngineHandler methodToCall)
+        {
+            listOfHandlers -= methodToCall;
+        }
 
         public void Accelerate(int delta)
         {

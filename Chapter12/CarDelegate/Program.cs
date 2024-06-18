@@ -8,6 +8,8 @@ c1.RegisterWithCarEngine(new Car.CarEngineHandler(OnCarEngineEvent));
 Console.WriteLine("***** Speeding up *****");
 for (int i = 0; i < 6; i++)
     c1.Accelerate(20);
+
+c1.UnRegisterWithCarEngine(new Car.CarEngineHandler(OnCarEngineEvent));
 static void OnCarEngineEvent(string msg)
 {
     Console.WriteLine("\n***** Message From Car Object *****");

@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\refint\PublicDelegateProblem.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\PublicDelegateProblem\obj\Debug\net8.0\ref\PublicDelegateProblem.dll

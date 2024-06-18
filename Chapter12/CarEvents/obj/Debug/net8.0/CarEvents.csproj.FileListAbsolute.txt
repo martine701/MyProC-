@@ -1,0 +1,14 @@
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\bin\Debug\net8.0\CarEvents.exe
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\bin\Debug\net8.0\CarEvents.deps.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\bin\Debug\net8.0\CarEvents.runtimeconfig.json
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\bin\Debug\net8.0\CarEvents.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\bin\Debug\net8.0\CarEvents.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfoInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfo.cs
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\refint\CarEvents.dll
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.pdb
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\CarEvents.genruntimeconfig.cache
+C:\Users\allie\OneDrive\Documents\Visual Studio 2022\MyProCSharp\Chapter12\CarEvents\obj\Debug\net8.0\ref\CarEvents.dll
